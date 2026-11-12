@@ -1,6 +1,6 @@
 # Spatial Segregation of Stellar Rotation and Superflare Energetics in Open Cluster NGC 2516
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/futurinosci/NGC2516-Rotation-Flares/blob/main/NGC_2516_data_extraction_code.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MustakimSaron/NGC2516-Rotation-Flares/blob/main/NGC_2516_data_extraction_code.ipynb)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22819834.svg)](https://doi.org/10.5281/zenodo.22819834)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
@@ -35,7 +35,7 @@ This repository provides the reproducible Python pipeline and Jupyter Notebook (
 ### Option 1: Run Directly in Google Colab (Recommended)
 Click the badge below to launch the notebook immediately in Google Colab with zero local setup:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/futurinosci/NGC2516-Rotation-Flares/blob/main/NGC_2516_data_extraction_code.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MustakimSaron/NGC2516-Rotation-Flares/blob/main/NGC_2516_data_extraction_code.ipynb)
 
 ### Option 2: Run Locally
 1. **Clone the repository:**
